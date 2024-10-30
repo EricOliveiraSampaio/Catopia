@@ -9,7 +9,7 @@ A saúde e bem-estar dos gatinhos também são prioridades do nosso aplicativo, 
 Uma das missões importantes sobre o nosso aplicativo é incentivar a adoção responsável. O aplicativo conecta organizações parceiras de adoção para que os usuários consigam fazer uma adoção de forma prática e fácil, contribuindo para que muitos gatos abandonados possam ter a chance de ter um lar. </h4>
 
 <h3>Wiki do projeto:</h3>
-https://github.com/EricOliveiraSampaio/Ecotuba/wiki](https://github.com/EricOliveiraSampaio/Gatopia/wiki)
+[https://github.com/EricOliveiraSampaio/Ecotuba/wiki](https://github.com/EricOliveiraSampaio/Gatopia/wiki)](https://github.com/EricOliveiraSampaio/Gatopia/wiki)
 
 <h3>Imagens da Tela</h3>
 https://github.com/EricOliveiraSampaio/Ecotuba/wiki/Imagens-da-tela
