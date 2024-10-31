@@ -12,4 +12,4 @@ Uma das missões importantes sobre o nosso aplicativo é incentivar a adoção r
 https://github.com/EricOliveiraSampaio/Gatopia/wiki
 
 <h3>Imagens da Tela</h3>
-https://github.com/EricOliveiraSampaio/Ecotuba/wiki/Imagens-da-tela
+https://github.com/EricOliveiraSampaio/Gatopia/wiki/Imagens-da-tela
