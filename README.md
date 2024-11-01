@@ -13,3 +13,6 @@ https://github.com/EricOliveiraSampaio/Gatopia/wiki
 
 <h3>Imagens da Tela</h3>
 https://github.com/EricOliveiraSampaio/Gatopia/wiki/Imagens-da-tela
+
+<h3>Diagrama de Classes</h3>
+https://github.com/EricOliveiraSampaio/Gatopia/wiki/Diagrama-de-Classes
